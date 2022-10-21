@@ -8,6 +8,7 @@ from: Norway
 job: Lead Software Engineer
 education: ["3D Game Design", "2D Game Design", "Theatre"]
 company: Broomstick & Northwood Studios
+runs-on: Redbull
 fields_of_interests: 
   - ["Artificial Intelligence"]
   - ["XR"]
