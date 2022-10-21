@@ -1,6 +1,5 @@
-\> Developer of games, musician and procrastinator <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnen.Rnen">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=>+Developer+of+games;Musician+and+procrastinator...)](https://git.io/typing-svg) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnen.Rnen">
 ---
-
 
 ```yaml
 name: Evan
