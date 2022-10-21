@@ -30,6 +30,6 @@ hobbies: ["Alto Saxophone", "Guitar", "Game Server Maintenance", "Community Buil
 <a href="https://github.com/Rnen"><img width="900" align="center" src="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake.svg" alt="Rnen Profile Stats"/></a>
 <hr class="dashed">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
