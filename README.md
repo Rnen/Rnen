@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&pause=2000&width=600&lines=%3E+Developer+of+games;%3E+Musician+and+procrastinator...)](https://git.io/typing-svg) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnen.Rnen">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=2000&width=600&lines=%3E+Developer+of+games;%3E+Musician+and+procrastinator...)](https://git.io/typing-svg) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnen.Rnen">
 ---
 
 ```yaml
