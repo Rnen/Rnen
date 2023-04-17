@@ -7,7 +7,7 @@ located_in: Kristiansand, Norway
 from: Norway
 job: Lead Software Engineer
 education: ["3D Game Design", "2D Game Design", "Theatre"]
-company: Broomstick & Northwood Studios
+company: Broomstick
 runs-on: Redbull
 fields_of_interests: 
   - ["Artificial Intelligence"]
