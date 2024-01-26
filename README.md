@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=2000&width=600&lines=%3E+Developer+of+games;%3E+Musician+and+procrastinator...)](https://git.io/typing-svg) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnen.Rnen">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=2000&width=600&lines=%3E+Developer+of+games;%3E+Musician+and+procrastinator...)](https://github.com/Rnen) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnen.Rnen">
 ---
 
 ```yaml
@@ -27,9 +27,14 @@ hobbies: ["Alto Saxophone", "Guitar", "Game Server Maintenance", "Community Buil
 | <a href="https://github.com/Rnen"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rnen&show_icons=true&title_color=fff&include_all_commits&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="Rnen Profile Stats"/></a> | <a href="https://github.com/Rnen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rnen&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Rnen Language Stats"/></a> |
 | ------------- | ------------- |
 </kbd>
-<a href="https://github.com/Rnen"><img width="900" align="center" src="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake-dark.svg" alt="Rnen Profile Stats"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+<!--<a href="https://github.com/Rnen"><img width="900" align="center" src="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake-dark.svg" alt="Rnen Profile Stats"/></a>-->
 <hr class="dashed">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/Rnen)
 </div>
 
