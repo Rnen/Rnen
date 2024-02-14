@@ -17,7 +17,7 @@ fields_of_interests:
   - ["Motion Capture"]
 technical_background: ["Game Development", "Server Maintenance", "Real-Time Systems", "Task Automation"]
 currently_learning: ["Motion Capture", "Live Capture Performance", "Working with UE5 Nanite"]
-will_learn: ["CSS"]
+reduse_to_learn: ["CSS"]
 hobbies: ["Alto Saxophone", "Guitar", "Game Server Maintenance", "Community Building", "Games"]
 ```
 
