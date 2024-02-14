@@ -23,10 +23,7 @@ hobbies: ["Alto Saxophone", "Guitar", "Game Server Maintenance", "Community Buil
 
 <div align = center>
 <kbd>
-
-
-| <a href="https://github.com/Rnen"><img align="center" src="https://github-readme-stats-chi-jade-64.vercel.app/api?username=Rnen&show_icons=true&title_color=fff&include_all_commits&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="Rnen Profile Stats"/></a> | <a href="https://github.com/Rnen"><img align="center" src="https://github-readme-stats-chi-jade-64.vercel.app/api/top-langs/?username=Rnen&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Rnen Language Stats"/></a> |
-| ------------- | ------------- |
+<a href="https://github.com/Rnen"><img align="center" src="https://github-readme-stats-chi-jade-64.vercel.app/api?username=Rnen&show_icons=true&title_color=fff&include_all_commits&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" alt="Rnen Profile Stats"/></a>  <a href="https://github.com/Rnen"><img align="center" src="https://github-readme-stats-chi-jade-64.vercel.app/api/top-langs/?username=Rnen&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Rnen Language Stats"/></a> 
 </kbd>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rnen/Rnen/blob/output/github-contribution-grid-snake-dark.svg" />
